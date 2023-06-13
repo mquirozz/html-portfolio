@@ -1,0 +1,25 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    color: #A93400;
+}
+html{ 
+    background-color: #e3d9b5;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: #A93400;
+}
+li{
+    margin-left: 50px;
+    font-family: 'Roboto Mono', monospace;
+    color: #505423;
+}
+a{
+    padding-bottom: 20px;
+    cursor: pointer;
+}
